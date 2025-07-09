@@ -1,13 +1,12 @@
 
-# 🎮 **GDSEXOS**
-
 <p  align="center">
 
 <img  src="https://media.discordapp.net/attachments/1345522173363617805/1380207260462092319/1cd78b02-bf85-4bbe-b100-d669edc7f52d.png?ex=686f33ed&is=686de26d&hm=ae75a37082ebb7d5095c8c5b7c903a1b9e20a8699ba82966135dc963b1b2cfe9&width=346&height=346"  alt="Logo GDSEXOS"  width="300">
 
 </p>
 
-  
+# 🎮 **GDSEXOS**
+
 
 **GDSEXOS** est un repo contenant des exercices et leurs corrections, à suivre en parallèle de la formation **Game Dev Starter** de **Xenoks**.
 
